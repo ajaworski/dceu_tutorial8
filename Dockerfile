@@ -1,4 +1,4 @@
-FROM nginx:latest
+FROM nginx:latesasdaskjdnaskdnt
 MAINTAINER mike.coleman@docker.com
 
 # Copy index.html  
